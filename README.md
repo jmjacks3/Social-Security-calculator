@@ -1,4 +1,4 @@
-# Social-Security-calculator2
+# Social-Security-calculator
 Social Security calculator for work histories going back to 1972 and projections forward to 2089.
 The calculator cannot account for the **windfall elimination provision**.
 
